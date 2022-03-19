@@ -1,4 +1,4 @@
-- 👋 Hi, I', Mike Hawkins, a consultant Data Engineer at Cedarwood Insights.
+- 👋 Hi, I'm Mike Hawkins, a Data Engineer at Cedarwood Insights.
 - 👀 I’m interested in data engineering, data science, cloud computing and the internet of things.
 - 🌱 I love to immerse myself in all things high tech and discover smart new ways of doing stuff.
 
