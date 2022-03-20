@@ -10,11 +10,10 @@ My name is Mike Hawkins, and I'm a data engineer at Cedarwood Insights.
 
 I love to immerse myself in all things high tech and to learn about smart new ways of doing stuff. My primary interests are data engineering, data science, cloud computing and the internet of things. I also like to do the odd bit of coding now and again.
 
-Please feel free to get in touch. You can find me on:
-
-[![LinkedIn](/assets/linkedin.png)](https://www.linkedin.com/in/michaeljackhawkins/)
-[![Twitter](assets/twitter.png)](https://twitter.com/CWInsights)
-[![Medium](assets/medium.png)](https://medium.com/@mjhawkins)
+Please feel free to get in touch. You can find me on
+[![LinkedIn](/assets/linkedinpadded.png)](https://www.linkedin.com/in/michaeljackhawkins/)
+[![Twitter](assets/twitterpadded.png)](https://twitter.com/CWInsights)
+[![Medium](assets/mediumpadded.png)](https://medium.com/@mjhawkins)
 
 
 
