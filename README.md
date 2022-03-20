@@ -13,6 +13,9 @@ I love to immerse myself in all things high tech and to learn about smart new wa
 Please feel free to get in touch. You can find me on:
 
 [![LinkedIn](/assets/linkedin.png)](https://www.linkedin.com/in/michaeljackhawkins/)
+[![Twitter](assets/twitter.png)](https://twitter.com/CWInsights)
+[![Medium](assets/medium.png)](https://medium.com/@mjhawkins)
+
 
 
 <!---
